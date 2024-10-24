@@ -1,3 +1,3 @@
-![Snake](/github-contribution-grid-snake.svg)
+![Snake](/profile-snake-contrib/github-contribution-grid-snake.svg)
 
 ![Metrics](/github-metrics.svg)
