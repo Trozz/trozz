@@ -5,7 +5,7 @@ on:
   push: {branches: ["main"]}
 jobs:
   github-metrics:
-    runs-on: ubicloud
+    runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
         with:
