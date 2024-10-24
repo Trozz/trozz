@@ -22,10 +22,10 @@ jobs:
           plugin_achievements_threshold: C
           plugin_activity: yes
           plugin_activity_days: 14
-          plugin_activity_filter: all
+          plugin_activity_filter: public
           plugin_activity_limit: 5
           plugin_activity_load: 300
-          plugin_activity_visibility: all
+          plugin_activity_visibility: public
           plugin_followup: yes
           plugin_followup_sections: repositories
           plugin_habits: yes
@@ -46,9 +46,6 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
           plugin_lines: yes
-          plugin_notable: yes
-          plugin_notable_from: organization
-          plugin_notable_types: commit
           plugin_projects: yes
           plugin_projects_limit: 4
           plugin_repositories: 100
